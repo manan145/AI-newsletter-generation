@@ -1,2 +1,2 @@
-![Architecture Diagram](Agents diagram.png)
+![Architecture Diagram](Agents_diagram.png)
 
